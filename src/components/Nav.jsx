@@ -26,10 +26,12 @@ export default function Nav() {
           <li>
             <a href="#contact">Contact</a>
           </li>
-          <li>
+          <li style={{ color: "white" }}>
             <a
+              style={{ color: "white" }}
               href={personal.resumeUrl}
-              download
+              target="_blank"
+              rel="noopener noreferrer"
               className="nav-resume"
             >
               Resume
