@@ -1,0 +1,15 @@
+{
+  "name": "Mateja Pavlović",
+  "role": "Intern Software Engineer",
+  "tagline": "Building scalable, functional and high-performance web applications with a focus on clean, maintainable code.",
+  "status": "Open to internship opportunities",
+  "email": "pavlovicinq@gmail.com",
+  "github": "https://github.com/matejapp",
+  "linkedin": "https://www.linkedin.com/in/matejapavlovic/",
+  "resumeUrl": "/resume.pdf",
+  "about": [
+    "I'm a IT Engineering student who leans heavily toward backend development - I love designing APIs, modeling data, and building the systems that quietly power great products. That said, I'm equally comfortable on the frontend when the work calls for it.",
+    "What drives me most is shipping things that real people actually use. There's a particular satisfaction in watching something you built solve a genuine problem - quietly, reliably, without friction. I hold that bar for everything I work on.",
+    "When I'm not coding and learning you can find me in the gym, or hanging out with friends and loved ones."
+  ]
+}

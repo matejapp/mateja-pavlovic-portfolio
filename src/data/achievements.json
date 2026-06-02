@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Perfect GPA",
+    "description": "Perfect GPA for 3 consecutive years at university",
+    "icon": "academic"
+  },
+  {
+    "id": 2,
+    "title": "Case Study Winner",
+    "description": "1st place in national case study competition for innovative tech solutions @EnergyNet",
+    "icon": "trophy"
+  },
+  {
+    "id": 3,
+    "title": "Case Study department leader",
+    "description": "Led my university's case study team to a 1st place finish in the national competition @EnergyNet and 4th place on regional level in area of AgenticAI solutions @LumenPlatforma",
+    "icon": "trophy"
+  },
+  {
+    "id": 4,
+    "title": "Full Scholarship",
+    "description": "Awarded full scholarship for 2 years in a row for outstanding academic performance and leadership potential",
+    "icon": "star"
+  }
+]

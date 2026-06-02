@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": [
+        { "name": "C#", "icon": "SiDotnet" },
+        { "name": ".NET", "icon": "SiDotnet" },
+        { "name": "JavaScript", "icon": "SiJavascript" },
+        { "name": "TypeScript", "icon": "SiTypescript" },
+        { "name": "Python", "icon": "SiPython" }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "React", "icon": "SiReact" },
+        { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+        { "name": "Vite", "icon": "SiVite" },
+        { "name": "shadcn/ui", "icon": "SiShadcnui" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        { "name": "ASP.NET Core", "icon": "SiDotnet" },
+        { "name": "Express", "icon": "SiExpress" },
+        { "name": "PostgreSQL", "icon": "SiPostgresql" },
+        { "name": "MongoDB", "icon": "SiMongodb" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "Git", "icon": "SiGit" },
+        { "name": "GitHub", "icon": "SiGithub" },
+        { "name": "Docker", "icon": "SiDocker" },
+        { "name": "VS Code", "icon": "VscVscode" },
+        { "name": "JetBrains", "icon": "SiJetbrains" }
+      ]
+    }
+  ]
+}

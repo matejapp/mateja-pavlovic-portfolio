@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "JobTrack",
+    "description": "A full-stack job application tracker with organized pipeline, real hiring stages, visualized data to help you optimize your job search strategy, and a sleek, intuitive interface.",
+    "tech": [
+      "ASP NET Core",
+      "C#",
+      "Reactt",
+      "MongoDB",
+      "Tailwind CSS",
+      "Docker"
+    ],
+    "githubUrl": "https://github.com/matejapp/job-track",
+    "liveUrl": "job-track.app",
+    "image": "/job-track.png"
+  },
+  {
+    "id": 2,
+    "title": "RecruitLense",
+    "description": "AI tool for candidates and recruiters that analyzes job descriptions and resumes to provide personalized feedback, optimize keyword usage, and improve matching accuracy for better hiring outcomes.",
+    "tech": ["Python", "FastAPI", "React", "Gemini AI"],
+    "githubUrl": "https://github.com/matejapp/recruit-lens",
+    "liveUrl": "https://recruit-lens-iota.vercel.app/",
+    "image": "/recruit-lens.png"
+  },
+  {
+    "id": 3,
+    "title": "22SquareBar",
+    "description": "Full-stack website for a local restaurant, featuring a dynamic menu and admin dashboard for managing items and customer feedback.",
+    "tech": ["React", "Express", "MySql", "Tailwind CSS"],
+    "githubUrl": "https://github.com/matejapp/22-square-bar",
+    "liveUrl": "https://22squarebar.com",
+    "image": "/22.png"
+  },
+  {
+    "id": 4,
+    "title": "CashTensor",
+    "description": "Personal finance tracker with categories, monthly reports, and spending insights. Built using AWS DynamoDB for scalable data storage, GraphQL for efficient data access, and a React frontend for an intuitive user experience.",
+    "tech": ["React", "GraphQL", "AWS DynamoDB", "Tailwind CSS"],
+    "githubUrl": "https://github.com/matejapp/cashTensor",
+    "liveUrl": null,
+    "image": "/placeholder.jpg"
+  },
+  {
+    "id": 5,
+    "title": "2D RPG Game",
+    "description": "A 2D turn-based RPG game built with TypeScript and Express backend. Players go through 5 stages of monster battles, with a final boss fight at the end. The game features a simple yet engaging combat system, character progression, and a variety of monsters to defeat.",
+    "tech": ["TypeScript", "Express", "React", "Tailwind CSS"],
+    "githubUrl": "https://github.com/matejapp/FullStack-2D-RPG",
+    "liveUrl": null,
+    "image": "/placeholder.jpg"
+  }
+]
